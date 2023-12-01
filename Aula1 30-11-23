@@ -1,0 +1,114 @@
+// import 'package:intl/intl.dart';
+
+// void main() {
+// var numero=3;
+//   while (numero<= 4)
+//   { print(numero);
+//   numero++;}
+// }
+// /*
+//   bool aprovado=true;
+//   bool casado = false;
+  
+//   print('O aluno foi aprovado? $aprovado');
+//   print('É casado? $casado');
+//   var nome= 'Júlia Nayara ';
+//   var sobrenome='Araújo Zimmermann';
+//   var nota1=9.4;
+//   var nota2=9.7;
+//   var nota3=9.0;
+//   var nota4=9.8;
+//   var media=(nota1+nota2+nota3+nota4)/4;
+//   print('A média final de $nome $sobrenome é igual a $media');
+  
+//   //variáveis double
+//   //double salario = 10000.80;
+//   // var aumento =20;
+//   //var novoSalario=(salario * aumento) / 100;
+//   //var salarioReajustado=salario+novoSalario;
+//   //print ('o salário é: $salario');
+//   //print ('o aumento foi de $novoSalario');
+//   // print ('o salário reajustado é de $salarioReajustado');
+  
+//   //variavéis inteiro
+//   int num1 = 18;
+//   int num2 = 72;
+//   int num3 = 2;
+//   var resultado = (num1 + num2) / num3;
+//   print ('O número informado é $resultado');
+ 
+//   //variáveis do tipo String
+//   var nome = 'Michelly Stephany';
+//   var sobrenome = 'Pfeifer Das Neves';
+//   print('O nome completo é $nome $sobrenome');
+//   */
+//     {
+  
+//   dynamic qualquerCoisa='Júlia';
+//   print('Dynamic aceita todos os tipos=> $qualquerCoisa');
+  
+  
+// }
+// import 'package:intl/intl.dart';
+// void main() {
+//   DateTime agora= DateTime.now();
+
+//   DateFormat  formato=DateFormat('dd-MM-yyyy');
+//   String dataFormatada= formato.format(agora);
+//   print('Data:$dataFormatada');
+// }
+// import 'package:intl/intl.dart';
+// void main() {
+// int idade=16;
+  
+//   bool aprovado=true;
+//   bool casado = false;
+//   var nome= 'Júlia Nayara ';
+//   var sobrenome='Araújo Zimmermann';
+//   var nota1=9.4;
+//   var nota2=9.7;
+//   var nota3=9.0;
+//   var nota4=9.8;
+//   var media=(nota1+nota2+nota3+nota4)/4;
+//   var falta=6.0;
+//   if(media >= 6.0 && falta < 5.0){
+//     print("Aprovado");
+//   }else if(media >= 4.0 && media <= 5.9){
+//     print("Recuperação");
+//   }else{
+//     print('Reprovado');
+//   }
+//   print('A média final de $nome $sobrenome é igual a $media');
+// }
+// import 'package:intl/intl.dart';
+
+// void main() {
+//   var idade = 15;
+//   var temAutorizacao = true;
+//   if (idade >= 18 || temAutorizacao) {
+//     print('Pode Entrar');
+//   } else {
+//     print('Não pode entrar');
+//   }
+// }
+// var frutas = ['abacaxi','maça','laranja', 'uva'];
+//   frutas.add('morango');
+//   //frutas.remove('abacaxi');
+//   frutas.removeAt(1);
+//   print (frutas);
+  
+//   var numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+//   print (numeros);
+//   for (var n in numeros){
+//     print(n);
+//   }
+//   var qualquer = [1,'arroz','sapato', 15];
+//   print (qualquer);
+// }
+// import 'package:intl/intl.dart';
+
+// void main() {
+// var numero=6;
+//   { print(numero);
+//   numero++;}
+// }
